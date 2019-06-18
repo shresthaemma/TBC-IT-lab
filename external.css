@@ -1,0 +1,21 @@
+/* type selector */
+    body{
+	background-image:url('../images/bc.jpg');
+	background-repeat:no repeat;
+	}
+	/* ID selector */
+	#container{
+		width:1140px; 
+		min-height:1000px;
+		margin:auto auto; 
+		border-left:10px Groove #ffffff; border-right:4px solid #ffffff; 
+		color:#ffffff;
+	}
+	/* Class Selector */
+	.myheading{
+		font-size: 30px;
+		font-weight:900;
+		border-bottom:2px solid #ffffff;
+		}
+		
+		
