@@ -44,3 +44,44 @@ body{
 .clear{
 	clear:both;
 }
+
+
+.welcome{
+	font-family: 'Calligraffitti',serif;
+		font-size: 48px;
+		font-variant:small-caps;
+}
+
+.myp{
+	font-family: 'Coda Caption';
+	font-size: 22px;
+	color:#000099;
+}
+
+.fp{
+	font-family:'Annie Use Your Telescope';
+	font-size: 22px;
+	color:#000099;
+}
+
+#banner{
+	background-image:url('../images/banner1.jpg');
+	background-repeat:no-repeat;
+	min-height: 300px;
+}
+
+.sitetitle{
+	font-family:'Unica One';
+	font-size: 40px;
+	color:#ffffff;
+	font-variant: small-caps;
+	text-shadow: 3px;
+	margin-left:50px;
+	margin-top:10px;
+	
+}
+
+.sitetitle:hover{
+	color:#ffccdd;
+	
+}
